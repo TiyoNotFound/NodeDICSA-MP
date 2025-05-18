@@ -1,5 +1,7 @@
 # Installation
 ```
+git clone https://github.com/TiyoNotFound/NodeDICSA-MP.git
+
 cd DIC
 npm install
 ```
