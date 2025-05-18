@@ -1,0 +1,13 @@
+{
+  "token": "token",
+  "clientId": "kunin moto sa discord developer portal",
+  "guildId": "server id",
+  "socketHost": "ip of the vps",
+  "socketPort": 1337,
+  "db": {
+    "host": "",
+    "user": "",
+    "password": "",
+    "database": ""
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "dic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.14.1",
+    "net": "^1.0.2",
+    "path": "^0.12.7",
+    "pino": "^7.0.0-rc.9"
+  }
+}
