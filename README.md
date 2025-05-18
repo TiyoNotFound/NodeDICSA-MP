@@ -5,6 +5,8 @@ npm install
 # Configuration
 The configuration file is config.json
 
+![Logo](tutorial.png)
+
 # Initilization 
 ```
 pm2 start index.js --name "app-name"
