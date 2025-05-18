@@ -1,5 +1,6 @@
 # Installation
 ```
+cd DIC
 npm install
 ```
 # Configuration
