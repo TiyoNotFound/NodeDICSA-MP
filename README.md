@@ -3,9 +3,9 @@
 npm install
 ```
 # Configuration
-The configuration file is config.json
-
-![Logo](tutorial.png)
+The configuration file is config.json.
+Copy the Application ID of your bot.
+![Image](images.png)
 
 # Initilization 
 ```
